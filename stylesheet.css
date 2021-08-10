@@ -1,0 +1,63 @@
+html,body{
+    height: 100%;
+}
+
+.box{
+    background: #ccc;
+    height: 100%;
+    padding: 20px;
+}
+
+h1 {text-align: center; }
+h2 {text-align: center; }
+
+h1,h2{
+    padding: 0;
+    margin: 0;
+    line-height: 1.0;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.経歴{
+    background-color: darkgrey;
+}
+
+.経歴{
+    width: 650px;
+    height: 220px;
+}
+
+.趣味{background-color: darkgrey;}
+
+.経歴{
+    float: left;
+    text-align: right;
+    color: #FFF;
+}
+
+.趣味{
+    float: right;
+    width: 650px;
+    height: 220px;
+    color: #FFF;
+}
+
+.p1,.p2,.p6,.p7{
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+    text-align: center;
+} 
+
+.自己紹介{
+    position: relative;
+    top: 230px;
+    right: 15px;
+    white-space: nowrap;
+    text-align: center;
+    
+}
